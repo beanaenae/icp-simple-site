@@ -1,0 +1,46 @@
+body{
+    background: linear-gradient(to right, #082F89, #C070E0);
+    font-family:'Times New Roman', Times, serif;
+
+}
+
+.container{
+    display: flex;
+    background-color: rgba(0, 0, 0, 0.3);
+    width: 1930px;
+    height: 80px;
+    margin-top: -10px;
+    margin-left: -7px;
+    justify-content: right;
+}
+
+.tabs {
+    color: white;
+    font-size: 25px;
+    padding: 30px 50px; 
+    text-decoration: underline;
+    margin-right: 10px;
+    
+}
+
+.intro{
+    padding: 300px 200px;
+    font-size: 50px;
+    color: white;
+    
+}
+
+.names{
+    padding: 300px 200px;
+    font-size: 50px;
+    color: white;
+    text-shadow: 
+        
+
+}
+
+.img {
+   
+    margin-top: -100px;
+    margin-left: 100px;
+}
